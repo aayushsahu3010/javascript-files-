@@ -1,6 +1,6 @@
 const single = "this iss ";
 const bAACK = "this is a ball  ";
-const singe = `this i`;//dynamic   execute js code as well as evaluated
+const singe = `this is a paragraph`;//dynamic   execute js code as well as evaluated
 
 
  const c = `${4+3}`;
